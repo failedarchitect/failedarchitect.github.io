@@ -9,9 +9,9 @@ layout: default
   </figure>
 
   <div class="home-text">
-    <p>I'm working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value. See more in my <a href="{% post_url 2026-07-05-scales-of-alignment %}">white post</a>.</p>
-
-    <p>I'm also a PhD student in logic and philosophy at IRIT/CNRS, working on ways to formally distinguish between normative/ethical and empirical knowledge, and actively trying to realize more practical applications of this work (as also seen in the above white post).</p>
+    <p>I’m a PhD student in Neurosymbolic AI at TU Graz, working as a part of Bettina Könighofer’s group. My main interest is broadly figuring out how we can formalize normative/ethical rules for artificial systems to follow, and then how to implement them. My prior background is in logic, philosophy, and cognitive science, and still enjoy working on various topics in these fields, including at the intersection of my current one.</p>
+    
+    <p>I’m also quite interested in helping build better systems for collective alignment. We currently lack the infrastructure to faithfully channel our preferences to parties who hold decision-making power, and to hold them accountable for violations within the system, and I believe this is at the root of many of our contemporary ills. See more in my <a href="{% post_url 2026-07-05-scales-of-alignment %}">white paper</a>.</p>
 
     <p>At this point, my writings are a bit scattered around all different corners of the web, ranging from denser and technical to airy and conceptual (with some of it previewed on the bottom of this page). See <a href="/research#writing">this</a> little directory where all of them are organized.</p>
 
