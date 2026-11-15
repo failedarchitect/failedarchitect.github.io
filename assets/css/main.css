@@ -40,7 +40,7 @@ header {
 .site-title {
   font-family: var(--sans);
   font-weight: 300;
-  font-size: 2.8rem;
+  font-size: 2.4rem;
   letter-spacing: -0.01em;
   line-height: 1;
   color: var(--text);
@@ -269,7 +269,7 @@ footer p { font-size: 0.8rem; color: var(--muted); }
 /* ─── Responsive ─── */
 @media (max-width: 720px) {
   .site-wrapper { padding: 0 1.5rem; }
-  .site-title { font-size: 2rem; }
+  .site-title { font-size: 1.8rem; }
   header { flex-direction: column; gap: 1.25rem; }
   .home-columns { flex-direction: column; align-items: stretch; }
   .home-image { max-width: 100%; }
